@@ -1,4 +1,4 @@
-# DRL4SnakeGame
+# DRL-Snake-Game
 
  Using deep reinforcement learning to play Snake game(贪吃蛇).
 
@@ -27,7 +27,9 @@ main.py: the main func.
 **what you need to do is to run the main.py and then run the env4Snake to test your mdoel!**
 
 ## Requirements
+python==3.8
 
+references:
 1. torch
 2. numpy
 3. seaborn==0.11.1
@@ -37,5 +39,4 @@ main.py: the main func.
 
 ## Details for realization
 
-See my blog for details: https://blog.csdn.net/weixin_43145941/article/details/118639211
-
+Email: from_jingwang@outlook.com
